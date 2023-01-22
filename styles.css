@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
 .holder{
-  display: flexbox;
-    align-self: center;
+  display: flex;
+    
 }
